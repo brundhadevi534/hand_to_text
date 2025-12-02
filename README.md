@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✍️ Handwritten to Digital Text Converter
 
 Convert your handwritten notes into clean, editable digital text using AI-powered Tesseract OCR technology.
@@ -315,3 +316,6 @@ For issues or questions:
 ---
 
 **Made with ❤️ for converting handwritten notes to digital text**
+=======
+# hand_to_text
+>>>>>>> d8ce0355e8b5c74b0a5818b8c8a511db0ca7cdee
